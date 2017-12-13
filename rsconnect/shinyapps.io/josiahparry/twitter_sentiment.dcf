@@ -1,0 +1,10 @@
+name: twitter_sentiment
+title:
+username:
+account: josiahparry
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 247961
+bundleId: 1131337
+url: https://josiahparry.shinyapps.io/twitter_sentiment/
+when: 1513125785.11789
